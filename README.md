@@ -30,7 +30,6 @@ This project focuses on analyzing historical sales data and forecasting future s
 Developed an Excel-based sales forecasting analysis to understand sales trends, estimate future demand, and support data-driven business decisions.
 
 ## Author
-SAPNA RAUTELA
 Sapna Rautela
 
 [GitHub Profile](https://github.com/sapnarautela)
